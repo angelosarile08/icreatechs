@@ -8,11 +8,14 @@
 
 <body>
 
+
     <h1>Hi! This is my first webpage!</h1>
     <h2>Don't judge me. :) </h2>
     <h3>This is an apology for myself! I'm gonna lock the fck in!</h3>
     <h4>Hope it works! </h4>
-    
+
+    <p>A man who's trying to be a better person day-by-day!</p>    
+
     <h1>This is my Git</h1>
     <a href="https://github.com/angelosarile08">Github</a>
 
@@ -21,6 +24,5 @@
 
     <h5>Wish me luck!</h5>
     <h6>See yah!</h6>
-    
 </body>
 </html>
